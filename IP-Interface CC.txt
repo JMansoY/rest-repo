@@ -1,0 +1,286 @@
+               Voice System name: S8700-CC-BCN - IP INTERFACES                  
+                                                                                
+                                                                      Net       
+ON Type   Slot  Code/Sfx      Node Name/       Mask  Gateway Node     Rgn  VLAN 
+                              IP-Address                                        
+-- ------ ----- --------      ---------------  ----  ---------------  ---  ---- 
+ y MEDPRO 01A10 TN2302        med-01a10-bcn    /25   Gateway001       6    2542 
+                              10.25.50.144                                      
+ y MEDPRO 01A11 TN2302        med-01a11-bcn    /25   Gateway001       6    2542 
+                              10.25.50.145                                      
+ y MEDPRO 01B11 TN2302        med-01b11-bcn    /25   Gateway001       6    2542 
+                              10.25.50.146                                      
+ y MEDPRO 01B12 TN2302        med-01b12-bcn    /25   Gateway001       6    2542 
+                              10.25.50.147                                      
+ y MEDPRO 01B13 TN2302        med-01b13-bcn    /25   Gateway001       6    2542 
+                              10.25.50.148                                      
+ y MEDPRO 01B14 TN2302        med-01b14-bcn    /25   Gateway001       6    2542 
+                              10.25.50.149                                      
+ y MEDPRO 02A12 TN2302        med-02a12-bcn    /25   Gateway001       6    2542 
+                              10.25.50.150                                      
+                                                                                
+                                                                                
+                                IP INTERFACES                                   
+                                                                                
+                                                                      Net       
+ON Type   Slot  Code/Sfx      Node Name/       Mask  Gateway Node     Rgn  VLAN 
+                              IP-Address                                        
+-- ------ ----- --------      ---------------  ----  ---------------  ---  ---- 
+ y MEDPRO 02A13 TN2302        med-02a13-bcn    /25   Gateway001       6    2542 
+                              10.25.50.151                                      
+ y MEDPRO 02A14 TN2302        med-02a14-bcn    /25   Gateway001       6    2542 
+                              10.25.50.152                                      
+ y C-LAN  01A02 TN799  D      clan-01a-CMS-2   /27   Gateway002       240  n    
+                              10.25.50.80                                       
+ y MEDPRO 02B12 TN2302        med-02b12-bcn    /25   Gateway001       6    2542 
+                              10.25.50.153                                      
+ y C-LAN  01B02 TN799  D      clan-01b-bcn     /27   Gateway002       240  n    
+                              10.25.50.81                                       
+ y C-LAN  02A02 TN799  D      clan-02a-bcn     /27   Gateway002       240  n    
+                              10.25.50.82                                       
+ y C-LAN  03B02 TN799  D      clan-03b-bcn     /27   Gateway002       240  n    
+                              10.25.50.85                                       
+                                                                                
+                                                                                
+                                IP INTERFACES                                   
+                                                                                
+                                                                      Net       
+ON Type   Slot  Code/Sfx      Node Name/       Mask  Gateway Node     Rgn  VLAN 
+                              IP-Address                                        
+-- ------ ----- --------      ---------------  ----  ---------------  ---  ---- 
+ y VAL    01A03 TN2501        VAL01A           /25   Gateway001            n    
+                              10.25.50.162                                      
+ y VAL    02A03 TN2501        VAL_02A          /25   Gateway001            n    
+                              10.25.50.163                                      
+ y MEDPRO 02B13 TN2302        med-02b13-bcn    /25   Gateway001       6    2542 
+                              10.25.50.154                                      
+ y MEDPRO 02B14 TN2302        med-02b14-bcn    /25   Gateway001       6    2542 
+                              10.25.50.155                                      
+ y MEDPRO 03A12 TN2302        med-03a12-bcn    /25   Gateway001       6    2542 
+                              10.25.50.156                                      
+ y MEDPRO 03A13 TN2302        med-03a13-bcn    /25   Gateway001       6    2542 
+                              10.25.50.157                                      
+ y MEDPRO 03A14 TN2302        med-03a14-bcn    /25   Gateway001       6    2542 
+                              10.25.50.158                                      
+                                                                                
+                                                                                
+                                IP INTERFACES                                   
+                                                                                
+                                                                      Net       
+ON Type   Slot  Code/Sfx      Node Name/       Mask  Gateway Node     Rgn  VLAN 
+                              IP-Address                                        
+-- ------ ----- --------      ---------------  ----  ---------------  ---  ---- 
+ y MEDPRO 03B12 TN2302        med-03b12-bcn    /25   Gateway001       6    2542 
+                              10.25.50.159                                      
+ y MEDPRO 03B13 TN2302        med-03b13-bcn    /25   Gateway001       6    2542 
+                              10.25.50.160                                      
+ y MEDPRO 03B14 TN2302        med-03b14-bcn    /25   Gateway001       6    2542 
+                              10.25.50.161                                      
+ y C-LAN  04A02 TN799  D      clan-04a-CMS-1   /27   Gateway003       240  n    
+                              10.25.51.80                                       
+ y C-LAN  05A02 TN799  D      clan-05a-mad     /27   Gateway003       240  n    
+                              10.25.51.82                                       
+ y C-LAN  06B02 TN799  D      clan-06b-mad     /27   Gateway003       240  n    
+                              10.25.51.85                                       
+ y MEDPRO 04A10 TN2302        MEDPR_04A10_MAD  /25   Gateway004       7    2556 
+                              10.25.51.144                                      
+                                                                                
+                                                                                
+                                IP INTERFACES                                   
+                                                                                
+                                                                      Net       
+ON Type   Slot  Code/Sfx      Node Name/       Mask  Gateway Node     Rgn  VLAN 
+                              IP-Address                                        
+-- ------ ----- --------      ---------------  ----  ---------------  ---  ---- 
+ y MEDPRO 04A11 TN2302        MEDPR_04A11_MAD  /25   Gateway004       7    2556 
+                              10.25.51.145                                      
+ y MEDPRO 04B11 TN2302        MEDPR_04B11_MAD  /25   Gateway004       7    2556 
+                              10.25.51.146                                      
+ y MEDPRO 04B12 TN2302        MEDPR_04B12_MAD  /25   Gateway004       7    2556 
+                              10.25.51.147                                      
+ y MEDPRO 04B13 TN2302        MEDPR_04B13_MAD  /25   Gateway004       7    2556 
+                              10.25.51.148                                      
+ y MEDPRO 04B14 TN2302        MEDPR_04B14_MAD  /25   Gateway004       7    2556 
+                              10.25.51.149                                      
+ y MEDPRO 05A12 TN2302        MEDPR_05A12_MAD  /25   Gateway004       7    2556 
+                              10.25.51.150                                      
+ y MEDPRO 05A14 TN2302        MEDPR_05A14_MAD  /25   Gateway004       7    2556 
+                              10.25.51.152                                      
+                                                                                
+                                                                                
+                                IP INTERFACES                                   
+                                                                                
+                                                                      Net       
+ON Type   Slot  Code/Sfx      Node Name/       Mask  Gateway Node     Rgn  VLAN 
+                              IP-Address                                        
+-- ------ ----- --------      ---------------  ----  ---------------  ---  ---- 
+ y MEDPRO 05A13 TN2302        MEDPR_05A13_MAD  /25   Gateway004       7    2556 
+                              10.25.51.151                                      
+ y MEDPRO 05B12 TN2302        MEDPR_05B12_MAD  /25   Gateway004       7    2556 
+                              10.25.51.153                                      
+ y MEDPRO 05B13 TN2302        MEDPR_05B13_MAD  /25   Gateway004       7    2556 
+                              10.25.51.154                                      
+ y MEDPRO 05B14 TN2302        MEDPR_05B14_MAD  /25   Gateway004       7    2556 
+                              10.25.51.155                                      
+ y MEDPRO 06A12 TN2302        MEDPR_06A12_MAD  /25   Gateway004       7    2556 
+                              10.25.51.156                                      
+ y MEDPRO 06A13 TN2302        MEDPR_06A13_MAD  /25   Gateway004       7    2556 
+                              10.25.51.157                                      
+ y MEDPRO 06A14 TN2302        MEDPR_06A14_MAD  /25   Gateway004       7    2556 
+                              10.25.51.158                                      
+                                                                                
+                                                                                
+                                IP INTERFACES                                   
+                                                                                
+                                                                      Net       
+ON Type   Slot  Code/Sfx      Node Name/       Mask  Gateway Node     Rgn  VLAN 
+                              IP-Address                                        
+-- ------ ----- --------      ---------------  ----  ---------------  ---  ---- 
+ y MEDPRO 06B13 TN2302        MEDPR_06B13_MAD  /25   Gateway004       7    2556 
+                              10.25.51.160                                      
+ y MEDPRO 06B12 TN2302        MEDPR_06B12_MAD  /25   Gateway004       7    2556 
+                              10.25.51.159                                      
+ y MEDPRO 06B14 TN2302        MEDPR_06B14_MAD  /25   Gateway004       7    2556 
+                              10.25.51.161                                      
+ y VAL    05A03 TN2501        VAL_05A          /25   Gateway004            n    
+                              10.25.51.163                                      
+ y C-LAN  04B02 TN799  D      clan-04b-mad     /27   Gateway003       240  n    
+                              10.25.51.81                                       
+ y C-LAN  05B02 TN799  D      clan-05b-mad     /27   Gateway003       240  n    
+                              10.25.51.83                                       
+ y VAL    04A03 TN2501        VAL_04A          /25   Gateway004            n    
+                              10.25.51.162                                      
+                                                                                
+                                                                                
+                                IP INTERFACES                                   
+                                                                                
+                                                                      Net       
+ON Type   Slot  Code/Sfx      Node Name/       Mask  Gateway Node     Rgn  VLAN 
+                              IP-Address                                        
+-- ------ ----- --------      ---------------  ----  ---------------  ---  ---- 
+ y C-LAN  02B02 TN799  D      clan-02b-bcn     /27   Gateway002       240  n    
+                              10.25.50.83                                       
+ y C-LAN  03A02 TN799  D      clan-03a-bcn     /27   Gateway002       240  n    
+                              10.25.50.84                                       
+ y MEDPRO 01B07 TN2302        med-01b07-bcn    /25   Gateway001       6    2542 
+                              10.25.50.247                                      
+ y MEDPRO 02A07 TN2302        med-02A07-bcn    /25   Gateway001       6    2542 
+                              10.25.50.246                                      
+ y MEDPRO 07A12 TN2302        med-07A12-bcn    /25   Gateway001       6    2542 
+                              10.25.50.254                                      
+ y MEDPRO 07A13 TN2302        med-07A13-bcn    /25   Gateway001       6    2542 
+                              10.25.50.253                                      
+ y MEDPRO 07A14 TN2302        med-07A14-bcn    /25   Gateway001       6    2542 
+                              10.25.50.252                                      
+                                                                                
+                                                                                
+                                IP INTERFACES                                   
+                                                                                
+                                                                      Net       
+ON Type   Slot  Code/Sfx      Node Name/       Mask  Gateway Node     Rgn  VLAN 
+                              IP-Address                                        
+-- ------ ----- --------      ---------------  ----  ---------------  ---  ---- 
+ y MEDPRO 07B11 TN2302        med-07B11-bcn    /25   Gateway001       6    2542 
+                              10.25.50.251                                      
+ y MEDPRO 07B12 TN2302        med-07B12-bcn    /25   Gateway001       6    2542 
+                              10.25.50.250                                      
+ y MEDPRO 07B13 TN2302        med-07B13-bcn    /25   Gateway001       6    2542 
+                              10.25.50.249                                      
+ y MEDPRO 07B14 TN2302        med-07B14-bcn    /25   Gateway001       6    2542 
+                              10.25.50.248                                      
+ y MEDPRO 03B11 TN2302        med-03B11-bcn    /25   Gateway001       6    2542 
+                              10.25.50.245                                      
+ y C-LAN  08A03 TN799  D      clan-08a03-uni   /28   Gateway005       12   n    
+                              172.19.92.54                                      
+ y C-LAN  08A04 TN799  D      clan-08a04-uni   /28   Gateway005       12   n    
+                              172.19.92.55                                      
+                                                                                
+                                                                                
+                                IP INTERFACES                                   
+                                                                                
+                                                                      Net       
+ON Type   Slot  Code/Sfx      Node Name/       Mask  Gateway Node     Rgn  VLAN 
+                              IP-Address                                        
+-- ------ ----- --------      ---------------  ----  ---------------  ---  ---- 
+ y C-LAN  08B03 TN799  D      clan-08b03-uni   /28   Gateway005       12   n    
+                              172.19.92.56                                      
+ y C-LAN  08B04 TN799  D      clan-08b04-uni   /28   Gateway005       12   n    
+                              172.19.92.57                                      
+ y MEDPRO 08A13 TN2302        med-08a13-uni    /22   Gateway006       12   n    
+                              172.19.96.15                                      
+ y MEDPRO 08A14 TN2302        med-08a14-uni    /22   Gateway006       12   n    
+                              172.19.96.16                                      
+ y MEDPRO 08B13 TN2302        med-08b13-uni    /22   Gateway006       12   n    
+                              172.19.96.17                                      
+ y MEDPRO 08B14 TN2302        med-08b14-uni    /22   Gateway006       12   n    
+                              172.19.96.18                                      
+ y VAL    03B03 TN2501        VAL03B           /25   Gateway001            n    
+                              10.25.50.173                                      
+                                                                                
+                                                                                
+                                IP INTERFACES                                   
+                                                                                
+                                                                      Net       
+ON Type   Slot  Code/Sfx      Node Name/       Mask  Gateway Node     Rgn  VLAN 
+                              IP-Address                                        
+-- ------ ----- --------      ---------------  ----  ---------------  ---  ---- 
+ y VAL    06B03 TN2501        VAL06B           /25   Gateway004            n    
+                              10.25.51.173                                      
+ y VAL    08A05 TN2501        VAL08A           /22   Gateway006            n    
+                              172.19.96.19                                      
+ y C-LAN  07B05 TN799  D      clan-07b05-CTI   /27   Gateway002       99   n    
+                              10.25.50.89                                       
+ y C-LAN  04A06 TN799  D      clan-04a06-CTIM  /27   Gateway003       95   n    
+                              10.25.51.86                                       
+ y C-LAN  04B06 TN799  D      clan-04b06-CTIM  /27   Gateway003       96   n    
+                              10.25.51.87                                       
+ y C-LAN  05A06 TN799  D      clan-05a06-CTIM  /27   Gateway003       97   n    
+                              10.25.51.88                                       
+ y C-LAN  06B06 TN799  D      clan-06b06-CTIM  /27   Gateway003       98   n    
+                              10.25.51.89                                       
+                                                                                
+                                                                                
+                                IP INTERFACES                                   
+                                                                                
+                                                                      Net       
+ON Type   Slot  Code/Sfx      Node Name/       Mask  Gateway Node     Rgn  VLAN 
+                              IP-Address                                        
+-- ------ ----- --------      ---------------  ----  ---------------  ---  ---- 
+ y C-LAN  01B06 TN799  D      clan-1b06-bcn    /27   Gateway002       90   n    
+                              10.25.50.86                                       
+ y C-LAN  02A06 TN799  D      clan-2a06-bcn    /27   Gateway002       91   n    
+                              10.25.50.87                                       
+ y C-LAN  03B06 TN799  D      clan-3b06-bcn    /27   Gateway002       92   n    
+                              10.25.50.88                                       
+ y C-LAN  07A06 TN799  D      clan-7a06-bcn    /27   Gateway002       93   n    
+                              10.25.50.90                                       
+ y MEDPRO 09A14 TN2602        med-09a14-bcn    /25   Gateway001       102  n    
+                              10.25.50.209                                      
+ y MEDPRO 09B14 TN2602        med-09b14-bcn    /25   Gateway001       102  n    
+                              10.25.50.210                                      
+ y C-LAN  09B05 TN799  D      clan-09b05-bcn   /27   Gateway002       102  n    
+                              10.25.50.93                                       
+                                                                                
+                                                                                
+                                IP INTERFACES                                   
+                                                                                
+                                                                      Net       
+ON Type   Slot  Code/Sfx      Node Name/       Mask  Gateway Node     Rgn  VLAN 
+                              IP-Address                                        
+-- ------ ----- --------      ---------------  ----  ---------------  ---  ---- 
+ y C-LAN  09A05 TN799  D      clan-09a05-bcn   /27   Gateway002       102  n    
+                              10.25.50.92                                       
+ y VAL    04B03 TN2501        VAL04B03         /25   Gateway004            n    
+                              10.25.51.174                                      
+ y MEDPRO 05A07 TN2302        MEDPR_05A07_MAD  /25   Gateway004       7    2556 
+                              10.25.51.164                                      
+ y MEDPRO 03A07 TN2302        med-03A07-bcn    /25   Gateway001       6    2542 
+                              10.25.50.164                                      
+ y VAL    02B04 TN2501        VAL02B04         /25   Gateway001            n    
+                              10.25.50.165                                      
+ y VAL    07A03 TN2501        VAL07A03         /25   Gateway001            n    
+                              10.25.50.166                                      
+                                                                                
+                                                                                
+                                                                                
+                                                                                
